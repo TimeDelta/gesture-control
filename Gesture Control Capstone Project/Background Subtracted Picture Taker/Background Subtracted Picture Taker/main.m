@@ -1,0 +1,14 @@
+//
+//  main.m
+//  Background Subtracted Picture Taker
+//
+//  Created by Bryan Herman on 3/17/13.
+//  Copyright (c) 2013 Bryan Herman. All rights reserved.
+//
+
+#import <Cocoa/Cocoa.h>
+
+int main(int argc, char *argv[])
+{
+	return NSApplicationMain(argc, (const char **)argv);
+}

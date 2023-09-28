@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ClassifierStage classify:at:]:ClassifierStage.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Trainer truePositiveRate:]:Trainer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Trainer featureTruePositiveRate:::]:Trainer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "weights">
+            </PersistentString>
+            <PersistentString
+               value = "feature">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HaarFeature classify:at:]:HaarFeature.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Trainer trainStage:withWeights:forIterations:]:Trainer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppController trainFeature:]:AppController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Trainer train:subwindows:firstStageSize:stageStepSize:]:Trainer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Trainer featureError:::]:Trainer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "feature">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
